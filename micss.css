@@ -1,0 +1,14 @@
+
+
+.div1 {
+  min-height: 25vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+  }
+  body {
+    background-color: red;
+  }
+  
+
